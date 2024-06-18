@@ -8,7 +8,7 @@
 
 - - -
 
-## Badges 🌕
+## Badges🌕
 </a>
 <a href = "https://git-scm.com"><img alt="Git"
 src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&iogo=Git&iogocolor=ffffff" />
@@ -27,7 +27,7 @@ src="https://img.shields.io/badge/After Effects-FE2EF7?style=for-the-badge&iogo=
 
 - - -
 
-## Check List ✅ 
+## Check List✅ 
 - [ ] 여름 방학 때 토익 공부
 - [ ] 편집 영상 제작하기
 - [ ] 가족 여행 다녀오기
