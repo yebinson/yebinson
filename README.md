@@ -8,7 +8,7 @@
 
 - - -
 
-## Badges
+## Badges 🌕
 </a>
 <a href = "https://git-scm.com"><img alt="Git"
 src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&iogo=Git&iogocolor=ffffff" />
